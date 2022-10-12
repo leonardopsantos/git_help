@@ -14,6 +14,9 @@ lalalalal
 How to clone git repo to a local machine
 
 
+#Issue 2 fixing
+we fixed issue#2
+
 ```
 $ git-clone myrepo
 ```
