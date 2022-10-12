@@ -10,3 +10,10 @@ You can download git from [here](https://git-scm.com/downloads)
 
 lalalalal
 
+#How to clone
+How to clone git repo to a local machine
+
+
+```
+$ git-clone myrepo
+```
