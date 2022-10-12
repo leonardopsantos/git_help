@@ -6,6 +6,10 @@ This is a line of text
 
 int main( void ) {
     printf("Hello world\n");
+    printf("Not broken anymore");
 
     return 0;
 }
+
+
+
